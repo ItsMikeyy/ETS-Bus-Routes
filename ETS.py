@@ -1,10 +1,3 @@
-'''
-This program so far loads two files Trips.txt and Shapes.txt and extracts data into dictionaries 
-It then displays data from the dictionarie when the user inputs a route or shape id, it also draws the routes 
-and stops from user input.
-
-author: Michael Carey
-'''
 import pickle
 from graphics import *
 import sys
